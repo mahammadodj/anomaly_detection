@@ -1,6 +1,6 @@
 # Anomaly Detection
 ## Problem description
-We are provided with high frequency time series data. The goal of this project is to apply an algorithm (or several of them) to detect anomalies if there are any. 
+In particular, a common task when observing a signal is that of anomaly detection, i.e. the detection of deviations from a certain normal mode of operation. We are provided with high frequency time series data. The goal of this project is to apply an algorithm (or several of them) to detect anomalies if there are any. 
 
 Deliverables: 
 
